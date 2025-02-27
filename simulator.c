@@ -1144,7 +1144,7 @@ void* mainLoop(void* arg) {
 
         updateVehicles();  
 
-        SDL_SetRenderDrawColor(renderer, 50, 50, 50, 255); // Set background color to dark gray
+        SDL_SetRenderDrawColor(renderer, 76, 130, 230,1); // Set background color to dark gray
         SDL_RenderClear(renderer);
         
         drawRoadsAndLane(renderer, NULL);
