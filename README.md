@@ -80,6 +80,7 @@ T: Estimated time required to pass one vehicle</br>
 
 ![Simulation GIF](https://github.com/Dinishaaa/DSA-Queue-Simulator/blob/655365e70b142c5471caec74f71eaac34621bc8a/images/Traffic_Simulator_GIF.gif)
 </br></br></br>
+![Terminal GIF](https://github.com/Dinishaaa/DSA-Queue-Simulator/blob/main/images/Terminal.gif)
 ![Example1](https://github.com/Dinishaaa/DSA-Queue-Simulator/blob/655365e70b142c5471caec74f71eaac34621bc8a/images/example1.png)
 </br></br></br>
 ![Example2](https://github.com/Dinishaaa/DSA-Queue-Simulator/blob/655365e70b142c5471caec74f71eaac34621bc8a/images/example2.png)
